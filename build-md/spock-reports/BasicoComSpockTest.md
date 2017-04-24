@@ -7,7 +7,7 @@
 * Falhas: 1
 * Erros:   0
 * Ignorados:  0
-* Tempo Total: 0,138 seconds
+* Tempo Total: 0,208 seconds
 
 
 
@@ -27,7 +27,7 @@ Resultado: **FAIL**
  | Kirk | 3 | (FAIL)
  | Scotty | 6 | (PASS)
 
-The following problems occurred:
+Ocorreram os seguintes problemas:
 
 * [Kirk, 3]
 ```

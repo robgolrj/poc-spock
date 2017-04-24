@@ -68,7 +68,7 @@ Resultado: **$result**
         }
         def problems = executedIterations.findAll { it.errors }
         if ( problems ) {
-            out << "\nThe following problems occurred:\n\n"
+            out << "\nOcorreram os seguintes problemas:\n\n"
             for ( badIteration in problems ) {
                 if ( badIteration.dataValues ) {
                     out << '* ' << badIteration.dataValues << '\n'
