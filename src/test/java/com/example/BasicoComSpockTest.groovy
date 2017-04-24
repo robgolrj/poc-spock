@@ -2,7 +2,7 @@ import spock.lang.Specification
 
 class BasicoComSpockTest extends Specification{
 
-    def "Testar o tamanho do nome dos seus amigos"() {
+    def "Testar o tamanho do nome"() {
         expect:
         nome.size() == tamanho
 
